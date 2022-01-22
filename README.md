@@ -1,5 +1,5 @@
 # About The Dataset
-This is one of the most popular dataset ###Titanic Survival Dataset.
+This is one of the most popular dataset Titanic Survival Dataset.
 This repo is created just to get hands on practise on Machine Learning Models
 # Dataset
 The Datset Is [Titanic Survival Predictions](https://www.kaggle.com/c/titanic/data) Downloaded from Kaggle
