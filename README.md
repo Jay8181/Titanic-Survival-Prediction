@@ -1,0 +1,11 @@
+# About The Dataset
+This is one of the most popular dataset ###Titanic Survival Dataset.
+This repo is created just to get hands on practise on Machine Learning Models
+# Dataset
+The Datset Is [Titanic Survival Predictions](https://www.kaggle.com/c/titanic/data) Downloaded from Kaggle
+# Models Used 
+## K-Neighbours Classifier 
+K-Nearest Neighbour is one of the simplest Machine Learning algorithms based on Supervised Learning technique.
+K-NN algorithm assumes the similarity between the new case/data and available cases and put the new case into the category that is most similar to the available categories.
+K-NN algorithm stores all the available data and classifies a new data point based on the similarity. This means when new data appears then it can be easily classified into a well suite category by using K- NN algorithm.
+K-NN algorithm can be used for Regression as well as for Classification but mostly it is used for the Classification problems.
